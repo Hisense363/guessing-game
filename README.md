@@ -1,1 +1,1 @@
-# guessing_game
+# Creating a guessing game to learn rust
